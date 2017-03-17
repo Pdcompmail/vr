@@ -1,2 +1,1 @@
-# vr
-site about vakomarus company in russia
+<p>Site about company VAKOMA RUS</p>
